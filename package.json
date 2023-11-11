@@ -8,6 +8,7 @@
     "test": "npm run lint && npm run prettier:check"
   },
   "dependencies": {
+    "@vercel/postgres": "^0.5.1",
     "next": "^14.0.0"
   },
   "devDependencies": {
